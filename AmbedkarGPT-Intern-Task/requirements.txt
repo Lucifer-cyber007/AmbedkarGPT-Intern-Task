@@ -1,0 +1,9 @@
+langchain>=0.12.10        # replace XXX with your langchain minor; keep up-to-date
+chromadb>=0.3.29
+sentence-transformers>=2.2.2
+transformers>=4.30.0
+torch>=1.13.0
+ollama>=0.1.0            # python client for local Ollama - install if available
+huggingface-hub>=0.13.0
+sentencepiece
+tqdm
